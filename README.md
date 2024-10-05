@@ -31,7 +31,7 @@ This repository contains the following resources:
 ## 🛠 Technologies & Tools Used
 
 - **Data Mining**: Python, GitHub API, StackOverflow API
-- **Data Analysis**: Python, Tool X
+- **Data Analysis**: Python, Understand tool
 - **Survey Platform**: Google Forms
 - **Literature Review Tools**: Google Scholar
 
